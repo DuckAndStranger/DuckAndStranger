@@ -1,16 +1,15 @@
-### Hi there 👋
+# All projects by DuckAndStranger. Все поекты от DuckAndStranger.
 
-<!--
-**DuckAndStranger/DuckAndStranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Asteroids - Small indie Shoot’em up space game made with Godot Engine. [ENG]
 
-Here are some ideas to get you started:
+- Weatherbot - Telegram bot that shows weather in certain city. / Телеграм бот, который показывает погоду в выбранном вами городе. [ENG/RUS]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Zodiacbot - Телеграм бот с ежедневным гороскопом. [RUS]
+
+- BookScorebot - Телеграм бот для поиска и оценивания книг. [RUS]
+
+Contact / Контакты:
+
+- Email: bogdanovich.leo@gmail.com
+
+- Discord: LeonIDL#8011
