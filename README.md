@@ -8,6 +8,8 @@
 
 - BookScorebot - Телеграм бот для поиска и оценивания книг. [RUS]
 
+- Whatsapp image spammer - Python script to spam images from solder to a user or group. [ENG]
+
 Contact / Контакты:
 
 - Email: bogdanovich.leo@gmail.com
