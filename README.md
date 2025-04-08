@@ -1,17 +1,33 @@
-# [All projects by DuckAndStranger. Все поекты от DuckAndStranger.](https://duckandstranger.github.io/)
+# Леонид Богданович
 
-- Asteroids - Small indie Shoot’em up space game made with Godot Engine. [ENG]
+## О себе
+Меня зовут Леонид Богданович, студент ВВГУ. Я специализируюсь в области Data Engineering.
+Есть опыт в фриланс и командной разработке.
 
-- Weatherbot - Telegram bot that shows weather in certain city. / Телеграм бот, который показывает погоду в выбранном вами городе. [ENG/RUS]
+## Технологии и навыки
 
-- Zodiacbot - Телеграм бот с ежедневным гороскопом. [RUS]
+### Язык программирования и библиотеки
+Основной язык программировани - Python, но также есть опыт в других, больше всего в node.js, на котором реализовывался бекенд для одного проекта.
+- **Pandas**
+- **NumPy**
+- **PySpark**
+- **Flask**
 
-- BookScorebot - Телеграм бот для поиска и оценивания книг. [RUS]
+### BI-инструменты
+- **Metabase**
+- **Superset**
 
-- Whatsapp image spammer - Python script to spam images from solder to a user or group. [ENG]
+### Базы данных
+- **PostgreSQL**
+- **MySQL**
+- **ClickHouse**
+- **Redis**
 
-Contact / Контакты:
+### Другие инструменты
+- **Apache Airflow**
+- **Docker и Docker Compose**
+- **Git**
 
-- Email: bogdanovich.leo@gmail.com
-
-- Discord: LeonIDL#8011
+## Контакты
+- **Email**: bogdanovich.leo@gmail.com
+- **Telegram**: @duckandstranger
